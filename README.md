@@ -14,4 +14,4 @@ Tasks Description
     Test the query program.
 
 Results are as follows,
-！[image]https://github.com/ChandlerBang/Simple-SearchEngine/result.png
+！[image](https://github.com/ChandlerBang/Simple-SearchEngine/result.png)
