@@ -15,3 +15,4 @@ Tasks Description
 
 Results are as follows,
 ![image](https://github.com/ChandlerBang/Simple-SearchEngine/blob/master/result.png)
+ 
