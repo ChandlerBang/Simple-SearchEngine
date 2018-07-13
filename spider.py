@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 seed_url = u"http://shakespeare.mit.edu/"
 file_folder = 'The Complete Works of William Shakespeare/'
 
-# this part of code is beyond the range of ADS class
+# this part of code is beyond the range of this course
 # and the process of crawling the webpage is really boring and time-consuming
 # so I do not have much to comment
 # if you are interest in this, welcome to contact me after the project closed.
