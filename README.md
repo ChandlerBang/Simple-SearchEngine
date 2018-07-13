@@ -7,10 +7,14 @@ Tasks Description
 1)	Spider.py
     Download all the contents from http://shakespeare.mit.edu/ and store them in respective text files.
 2)	main.py
-    Transform all these text files into a form that program can handle. e.g., a dict of python. 
+    Transform all these text files into a form that program can handle. e.g., a dict of python.
+   
     Use filter to remove the non-word characters and stop words from the dict.
+   
     Create inverted index over the dict with word stemming or lemmatization.
+    
     Write a query program on top of the inverted file index.
+    
     Test the query program.
 
 Results are as follows,
